@@ -1,0 +1,34 @@
+{
+  "Creatures": [
+    {
+      "CreatureName": "Human Being",
+      "Home": "Land",
+      "Category": "Omnivores",
+      "Description": "Eats both plants and flesh of other animals"
+    },
+    {
+      "CreatureName": "Lion",
+      "Home": "Land",
+      "Category": "Carnivores",
+      "Description": "Eats flesh of other animals"
+    },
+    {
+      "CreatureName": "Tiger",
+      "Home": "Land",
+      "Category": "Carnivores",
+      "Description": "Eats flesh of other animals"
+    },
+    {
+      "CreatureName": "Bear",
+      "Home": "Land",
+      "Category": "Omnivores",
+      "Description": "Eats both plants and flesh of other animals"
+    },
+    {
+      "CreatureName": "Goat",
+      "Home": "Land",
+      "Category": "Herbivores",
+      "Description": "Eats plants"
+    }
+  ]
+}
